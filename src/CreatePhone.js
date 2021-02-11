@@ -18,7 +18,8 @@ function CreatePhone() {
 
   return (
     <div class="container mx-auto flex flex-col items-center">
-      <form class="w-80 p-4 flex flex-col bg-white rounded-lg">
+      <h2>Create a Phone</h2>
+      <form class="w-80 p-4 flex flex-col bg-gray-300 rounded-lg">
         <input
           id="model"
           name="model"
